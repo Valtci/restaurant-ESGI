@@ -1,0 +1,6 @@
+Cartes des boissons alccolisés :
+Vodka
+bieres
+champagne
+whisky
+tequila
