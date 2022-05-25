@@ -4,3 +4,10 @@ bieres
 champagne
 whisky
 tequila
+
+Cartes des boissons non alcoolisées:
+coca
+sprite
+café
+diabolo menthe
+orangina
